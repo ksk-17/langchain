@@ -4,3 +4,7 @@ langchain-openai
 streamlit
 python-dotenv
 langchain-community
+langserve
+fastapi # for building RESTful APIs in Python
+uvicorn # web server implementation for Python
+sse_starlette # requirement for langserve
